@@ -1,4 +1,6 @@
 gollum -- A wiki built on top of Git
+added this line
+steve wuz here
 ====================================
 
 ## DESCRIPTION
