@@ -1,5 +1,5 @@
 gollum -- A wiki built on top of Git
-added this line
+#fixed this this line
 steve wuz here
 ====================================
 
